@@ -27,7 +27,7 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-The following animation demonstrates the application functionality:
+screenshot:
 
-![](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/Alex_/Desktop/Boot%20Camp/work-day-scheduler/assets/images/05-third-party-apis-homework-demo.gif?version%3D1652497241217)
+![image](https://user-images.githubusercontent.com/94568874/168408441-94d9e602-d566-4f2a-985d-4d13fcb29511.png)
 
